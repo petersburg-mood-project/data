@@ -22,8 +22,8 @@
 - **stat_start_time**: Время начала статистики для сообщества
 - **group**: Группа сообщества (какой-либо дополнительный параметр или классификация)
 
-### 3. posts-with-topic.csv
-Ссылка: https://drive.google.com/file/d/1joVTCAcqRd7-F7-A46GgWz9ow7C0WMcy/view?usp=sharing
+### 3. [posts-with-topic.csv](https://disk.yandex.ru/d/rwGlp3DooVk7UQ)
+
 - **id**: Уникальный идентификатор поста
 - **vk_id**: Идентификатор поста в VK
 - **reply_post_id**: Идентификатор оригинального поста, если текущий пост является ответом на другой пост
@@ -34,8 +34,8 @@
 - **owner_id**: Идентификатор владельца поста
 - **topic**: Тема поста.
 
-### 4. comments-emotion.csv
-Ссылка: https://drive.google.com/file/d/1iS9I-C0bwQaY1OVBrOOLdLkgd-UBadJ4/view?usp=sharing
+### 4. [comments-emotion.csv](https://disk.yandex.ru/d/ISvNHi0u6SDnMA)
+
 - **id**: Уникальный идентификатор комментария
 - **vk_id**: Идентификатор комментария в VK
 - **from_id**: Идентификатор пользователя, оставившего комментарий
@@ -46,8 +46,8 @@
 - **reply_to_id_id**: Идентификатор комментария, на который дан комментарий в качестве ответа
 - **emotion**: эмоция поста
 
-### 5. spb-districts-topic-emotion-vitrine.csv
-Ссылка: https://drive.google.com/file/d/1hshITGVw01QO_y7ltqT98UCOblE5cimv/view?usp=sharing
+### 5. [spb-districts-topic-emotion-vitrine.csv](https://disk.yandex.ru/d/9WLa5-aLKQWPbA)
+
 - **vk_id_comment**: Идентификатор комментария в ВК
 - **vk_id_post**: Идентификатор поста в ВК
 - **vk_id_community**: Идентификатор сообщества в ВК
