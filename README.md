@@ -9,8 +9,7 @@
 - **класс**: Тема, которому посвящено сообщество
 
 
-### 2. communities-v1.csv
-Ссылка: https://drive.google.com/file/d/1T7FqbMC_IcovvCpnLA4pXY6r8Fmrd27o/view?usp=sharing
+### 2. [communities.csv](https://disk.yandex.ru/d/TRc_Nl5RQB_oWw)
 
 - **id**: Уникальный идентификатор сообщества
 - **vk_id**: Идентификатор сообщества в VK
@@ -23,7 +22,7 @@
 - **stat_start_time**: Время начала статистики для сообщества
 - **group**: Группа сообщества (какой-либо дополнительный параметр или классификация)
 
-### 3. posts-with-topic-v1.csv
+### 3. posts-with-topic.csv
 Ссылка: https://drive.google.com/file/d/1joVTCAcqRd7-F7-A46GgWz9ow7C0WMcy/view?usp=sharing
 - **id**: Уникальный идентификатор поста
 - **vk_id**: Идентификатор поста в VK
@@ -35,7 +34,7 @@
 - **owner_id**: Идентификатор владельца поста
 - **topic**: Тема поста.
 
-### 4. comments-emotion-v1.csv
+### 4. comments-emotion.csv
 Ссылка: https://drive.google.com/file/d/1iS9I-C0bwQaY1OVBrOOLdLkgd-UBadJ4/view?usp=sharing
 - **id**: Уникальный идентификатор комментария
 - **vk_id**: Идентификатор комментария в VK
@@ -47,7 +46,7 @@
 - **reply_to_id_id**: Идентификатор комментария, на который дан комментарий в качестве ответа
 - **emotion**: эмоция поста
 
-### 5. spb-districts-topic-emotion-vitrine-v1.csv
+### 5. spb-districts-topic-emotion-vitrine.csv
 Ссылка: https://drive.google.com/file/d/1hshITGVw01QO_y7ltqT98UCOblE5cimv/view?usp=sharing
 - **vk_id_comment**: Идентификатор комментария в ВК
 - **vk_id_post**: Идентификатор поста в ВК
